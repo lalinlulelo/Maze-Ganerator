@@ -1,4 +1,4 @@
-# Maze-Ganerator
+# Maze-Generator
 This is a maze generator based on this tutorial:
 https://www.youtube.com/watch?v=OzENv_ZRA1g&list=PL67XFC3MYQ6K7rXSnUpWXV844jdd3X7Lq
 
